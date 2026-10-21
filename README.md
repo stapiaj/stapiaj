@@ -16,5 +16,5 @@ Uso este GitHub como mi **laboratorio de aprendizaje**: aquí desarrollo proyect
 ### 🛠️ Herramientas
 `Python` · `SQL` · `LLMs` · `Git`
 
-### 📫 Hablemos
-[LinkedIn](https://www.linkedin.com/in/sergiotapiajorge)
+### 💼 Más sobre mí
+Si quieres conocer mi trayectoria profesional (experiencia, formación y en qué he trabajado) o simplemente hablar conmigo, lo tienes todo en mi **[LinkedIn](https://www.linkedin.com/in/sergiotapiajorge)**.
