@@ -7,7 +7,6 @@ Uso este GitHub como mi **laboratorio de aprendizaje**: aquí desarrollo proyect
 ### 🔍 Qué vas a encontrar aquí
 - **Agentes e IA generativa**: proyectos con LLMs que automatizan tareas reales, desde la idea hasta algo que funciona
 - **Datos**: análisis, modelos y pequeñas herramientas para sacar conclusiones útiles
-- **Fintech**: experimentos donde la tecnología se cruza con las finanzas
 
 ### 🚧 En qué ando ahora
 - Construyendo un **agente de IA para gestionar incidencias logísticas**
