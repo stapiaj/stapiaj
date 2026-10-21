@@ -1,22 +1,20 @@
-# Hola, soy Sergio Tapia 👋
+# Hola, soy Sergio 👋
 
-**Ingeniero informático · Business & Technology Consultant · Datos e IA generativa**
+Ingeniero informático con curiosidad por los **datos**, la **IA generativa** y cómo la tecnología resuelve problemas reales.
 
-Trabajo entre negocio y tecnología: entiendo el problema, diseño la solución y la llevo a algo que funciona. Actualmente soy consultor en **Management Solutions** (Madrid), en proyectos de banca: stress testing, migración a Data Lake y operaciones de venta de carteras NPL.
+Este es mi espacio de **proyectos personales**: aquí pruebo ideas, aprendo construyendo y documento lo que voy descubriendo por el camino.
 
-### 🔭 En qué estoy
-- Construyendo un **agente de IA para gestión de incidencias logísticas** (LLMs + automatización de procesos)
-- Profundizando en arquitectura, integración y puesta en producción de soluciones con IA
+### 🔍 Qué vas a encontrar aquí
+- **Agentes e IA generativa**: proyectos con LLMs que automatizan tareas reales, desde la idea hasta algo que funciona
+- **Datos**: análisis, modelos y pequeñas herramientas para sacar conclusiones útiles
+- **Fintech**: experimentos donde la tecnología se cruza con las finanzas
 
-### 🎓 Formación
-- **Grado en Ingeniería Informática** — Universidad Carlos III de Madrid
-- **Máster en Fintech** — Universidad Carlos III de Madrid
-- **Máster en Consultoría de Negocio** — ICADE
-
-### 💼 Experiencia
-- **Management Solutions** — Business & Technology Consultant (2024 – actualidad)
-- **Accenture** — Becario (2024)
-- **Inetum** — Becario (2023)
+### 🚧 En qué ando ahora
+- Construyendo un **agente de IA para gestionar incidencias logísticas**
+- Aprendiendo a llevar soluciones de IA a producción: arquitectura, integraciones y despliegue
 
 ### 🛠️ Herramientas
-`Python` · `SQL` · `Git` · `LLMs / IA generativa` · `Data Lakes` · `Análisis de datos`
+`Python` · `SQL` · `LLMs` · `Git`
+
+### 📫 Hablemos
+[LinkedIn](https://www.linkedin.com/in/sergiotapiajorge)
