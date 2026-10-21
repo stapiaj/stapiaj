@@ -1,8 +1,8 @@
 # Hola, soy Sergio 👋
 
-Ingeniero informático con curiosidad por los **datos**, la **IA generativa** y cómo la tecnología resuelve problemas reales.
+Me apasiona la tecnología y, sobre todo, **aplicarla a problemas de la vida real**. Busco construir un perfil **híbrido, técnico y funcional**: entender bien el problema y lo que hay detrás, y también saber construir la solución.
 
-Este es mi espacio de **proyectos personales**: aquí pruebo ideas, aprendo construyendo y documento lo que voy descubriendo por el camino.
+Uso este GitHub como mi **laboratorio de aprendizaje**: aquí desarrollo proyectos personales para reforzar la parte técnica sin perder de vista la funcional, es decir, para qué sirve lo que construyo y a quién le resuelve algo.
 
 ### 🔍 Qué vas a encontrar aquí
 - **Agentes e IA generativa**: proyectos con LLMs que automatizan tareas reales, desde la idea hasta algo que funciona
